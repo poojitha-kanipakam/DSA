@@ -65,7 +65,6 @@ class BST {
         root = insert(root, 70);
         root = insert(root, 60);
         root = insert(root, 80);
-
         // Print inorder traversal of the BST
         inorder(root);
     }
